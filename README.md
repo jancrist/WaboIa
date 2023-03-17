@@ -1,4 +1,6 @@
-#WABO
+![logo-removebg-preview](https://user-images.githubusercontent.com/66129541/225808287-021101f9-4d91-4a11-8aca-18985d98af7b.png)
+
+
 es un proyecto innovador que utiliza inteligencia artificial para crear un bot capaz de responder a todo tipo de consultas realizadas por los usuarios. Su capacidad de integrarse en todas las plataformas de mensajería existentes, como Whatsapp, lo hace extremadamente versátil y fácil de usar.
 
 # Es más que un simple bot: 
